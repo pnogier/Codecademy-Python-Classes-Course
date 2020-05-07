@@ -1,4 +1,4 @@
-## Codecademy Classes Course
+## Codecademy Python Classes Course
 Working with python classes
 
 # Restaurant
